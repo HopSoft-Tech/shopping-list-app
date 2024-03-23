@@ -1,3 +1,2 @@
-# Shopping List
-
-Simple shopping list app with Vanilla JS.
+# Shopping-List-App
+A Cool Shopping List App Created with Vanilla JS
