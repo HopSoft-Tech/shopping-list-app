@@ -22,7 +22,7 @@ A simple web application to manage your shopping list. Add, edit, remove, and fi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/shopping-list-app.git
+   git clone https://github.com/HopSoft-Tech/shopping-list-app.git
    ```
 
 2. Open `index.html` in your web browser to start using the app.
